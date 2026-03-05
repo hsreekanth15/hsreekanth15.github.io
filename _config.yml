@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Warsaw, Poland"
+  employer         : "Nicolaus Copernicus Astronomical Center"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sreekanth@camk.edu.pl" 
 
   # Academic websites
   academia         : # URL
