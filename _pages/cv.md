@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Gravitational Wave Lensing, National Center for Nuclear Research (NCBJ), 2025
+* M.Sc Physics, University of Madras, 2020
+* B.Sc Physics, university of Madras, 2018
 
 Work experience
 ======

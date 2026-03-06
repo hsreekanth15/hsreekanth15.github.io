@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
+title: "Gravitational Waves: Theory & Analysis"
+collection: Monographic lectures
+type: "Doctoral Studies"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Room 30, Seminar Room CAMK"
+date: 2026-03-03
+location: "Warsaw, Poland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course provides a introduction to gravitational waves (GWs), from their theoretical prediction in General Relativity to modern detection techniques and astrophysical applications. Students will learn the mathematical foundations of gravitational radiation, data analysis methods, gravitational lensing and the scientific discoveries enabled by current GW observatories. 
 
-Heading 1
-======
+### Lecture 1
+Historical Introduction to GWs
 
-Heading 2
-======
+### Lecture 2
 
-Heading 3
-======
