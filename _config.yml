@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Sreekanth Harikumar"
+title                    : "Ah, Visitors!"
 title_separator          : "-"
 name                     : &name "Sreekanth"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "hsreekanth15.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Sreekanth H"
+  name             : "Dr. Sreekanth Harikumar"
   pronouns         : # example: "he/him"  
   bio              : "Hi, I'm a postdoctoral researcher at CAMK. My work focuses on gravitational lensing of gravitational waves from astrophysical sources such as merging binary black holes and rapidly spinning isolated neutron stars. During my PhD, I also explored alternative theories of gravity and their implications for gravitational-wave observations. "
   location         : "Warsaw, Poland"
