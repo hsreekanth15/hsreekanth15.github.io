@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-2653-7282"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -209,7 +209,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  input: GFM
+  input: kramdown
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
@@ -217,6 +217,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  math_engine: mathjax
 
 
 # These settings control the types of collections used by the template

@@ -11,7 +11,12 @@ location: "Warsaw, Poland"
 This course provides a introduction to gravitational waves (GWs), from their theoretical prediction in General Relativity to modern detection techniques and astrophysical applications. Students will learn the mathematical foundations of gravitational radiation, data analysis methods, gravitational lensing and the scientific discoveries enabled by current GW observatories. 
 
 ### Lecture 1
-Historical Introduction to GWs
+Historical Introduction to GWs : [Slides](link)
 
 ### Lecture 2
+General Relativity: [Slides][link]
+
+### Lecture 3
+
+Linearized Gravity: [Slides][]
 
