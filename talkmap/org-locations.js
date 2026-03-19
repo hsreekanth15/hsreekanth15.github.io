@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "ICTS:Lensing of gravitational waves by Globular clusters and dark matter<br />ICTS, Bangalore; Bangalore India",
+    12.9767936,
+    77.590082
   ],
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.5074456,
-    -0.1277653
+    "Gravitational Wave Astronomy: A New Frontier in Astrophysics<br />CAMK, Poland; Warsaw, Poland",
+    52.2319581,
+    21.0067249
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Ripple in spacetime: The way we hear Black Holes<br />Govt. Boys Higher Secondary School, Thycaud, trivandrum , Kerala; Kerala, India",
+    10.3528744,
+    76.5120396
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "IUCAA:Lensing of gravitational waves by Globular clusters and dark matter<br />IUCAA; Pune, India",
+    18.5213738,
+    73.8545071
   ]
 ];
