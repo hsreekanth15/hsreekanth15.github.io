@@ -18,5 +18,7 @@ General Relativity: [Slides](https://users.camk.edu.pl/sreekanth/gwcourse/lec2.p
 
 ### Lecture 3
 
-Linearized Gravity: 
+Linearized Gravity: [Slides](https://users.camk.edu.pl/sreekanth/gwcourse/lec3.pdf)
+
+### Lecture 4
 
