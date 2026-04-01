@@ -22,3 +22,4 @@ Linearized Gravity: [Slides](https://users.camk.edu.pl/sreekanth/gwcourse/lec3.p
 
 ### Lecture 4
 
+GW Theory: Binary Mergers - 1: [Slides](https://users.camk.edu.pl/sreekanth/gwcourse/lec4.pdf)
